@@ -30,7 +30,6 @@ a {
   text-decoration: none;
   display: inline-block;
   margin: auto;
-
 }
 
 li {
@@ -42,4 +41,8 @@ li {
 
 img {
   width: 100px;
+}
+
+p {
+  max-width: 25rem;
 }
